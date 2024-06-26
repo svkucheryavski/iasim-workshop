@@ -123,7 +123,8 @@ After that, VS Code will run the code and show you the result. This is how it wi
 
 If it works, then you are almost ready for the course!
 
-If you want to understand what the code does, Google about simple Python code instructions, for example try [this tutorial](https://www.geeksforgeeks.org/python-for-kids/) or [this one](https://kidspython.com/).
+If you want to understand what the code does, Google about simple Python code instructions, for example try [this tutorial](https://www.geeksforgeeks.org/python-for-kids/) or [this one](https://python.swaroopch.com). You can check the more comprehensive list of Python tutorials [here](https://wiki.python.org/moin/BeginnersGuide/Programmers).
+
 
 ### 5. Download the course materials
 
